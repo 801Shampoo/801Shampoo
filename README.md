@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Call me Shampoo! A student in software engineering based in Costa Rica 🇨🇷
+
+I'm still in the process of deciding my working area, but everything calls me towards back-end.
+
+
 <!--
 **801Shampoo/801Shampoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
