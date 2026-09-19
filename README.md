@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Call me Shampoo! A student in software engineering based in Costa Rica 🇨🇷
+Call me Shampoo (or Sophia, though real names are boring)! A student in software engineering based in Costa Rica 🇨🇷
 
 I'm still in the process of deciding my working area, but everything calls me towards back-end.
 
